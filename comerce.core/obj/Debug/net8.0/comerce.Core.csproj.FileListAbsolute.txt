@@ -1,0 +1,11 @@
+C:\Users\marco\source\repos\comerce\comerce.core\bin\Debug\net8.0\comerce.Core.deps.json
+C:\Users\marco\source\repos\comerce\comerce.core\bin\Debug\net8.0\comerce.Core.dll
+C:\Users\marco\source\repos\comerce\comerce.core\bin\Debug\net8.0\comerce.Core.pdb
+C:\Users\marco\source\repos\comerce\comerce.core\obj\Debug\net8.0\comerce.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\source\repos\comerce\comerce.core\obj\Debug\net8.0\comerce.Core.AssemblyInfoInputs.cache
+C:\Users\marco\source\repos\comerce\comerce.core\obj\Debug\net8.0\comerce.Core.AssemblyInfo.cs
+C:\Users\marco\source\repos\comerce\comerce.core\obj\Debug\net8.0\comerce.Core.csproj.CoreCompileInputs.cache
+C:\Users\marco\source\repos\comerce\comerce.core\obj\Debug\net8.0\comerce.Core.dll
+C:\Users\marco\source\repos\comerce\comerce.core\obj\Debug\net8.0\refint\comerce.Core.dll
+C:\Users\marco\source\repos\comerce\comerce.core\obj\Debug\net8.0\comerce.Core.pdb
+C:\Users\marco\source\repos\comerce\comerce.core\obj\Debug\net8.0\ref\comerce.Core.dll

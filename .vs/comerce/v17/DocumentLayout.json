@@ -1,0 +1,342 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marco\\source\\repos\\comerce\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E326BC61-4F1B-467C-98C6-EEC90CFD78CD}|comerce.Infrastructure\\comerce.Infrastructure.csproj|c:\\users\\marco\\source\\repos\\comerce\\comerce.infrastructure\\comerce.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E326BC61-4F1B-467C-98C6-EEC90CFD78CD}|comerce.Infrastructure\\comerce.Infrastructure.csproj|solutionrelative:comerce.infrastructure\\comerce.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA2095FA-510D-4913-9BCD-41BB19754430}|comerce.core\\comerce.Core.csproj|c:\\users\\marco\\source\\repos\\comerce\\comerce.core\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA2095FA-510D-4913-9BCD-41BB19754430}|comerce.core\\comerce.Core.csproj|solutionrelative:comerce.core\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA2095FA-510D-4913-9BCD-41BB19754430}|comerce.core\\comerce.Core.csproj|c:\\users\\marco\\source\\repos\\comerce\\comerce.core\\interfaces\\iobjectmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA2095FA-510D-4913-9BCD-41BB19754430}|comerce.core\\comerce.Core.csproj|solutionrelative:comerce.core\\interfaces\\iobjectmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F770B3B-8200-4E03-98FD-A5D7BB428EE7}|comerce.services\\comerce.Services.csproj|c:\\users\\marco\\source\\repos\\comerce\\comerce.services\\services\\objectmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F770B3B-8200-4E03-98FD-A5D7BB428EE7}|comerce.services\\comerce.Services.csproj|solutionrelative:comerce.services\\services\\objectmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D52D5F9F-84E3-4493-81A1-C8BC482B0E0C}|comerce\\comerce.Api.csproj|c:\\users\\marco\\source\\repos\\comerce\\comerce\\controllers\\genrescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D52D5F9F-84E3-4493-81A1-C8BC482B0E0C}|comerce\\comerce.Api.csproj|solutionrelative:comerce\\controllers\\genrescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F770B3B-8200-4E03-98FD-A5D7BB428EE7}|comerce.services\\comerce.Services.csproj|c:\\users\\marco\\source\\repos\\comerce\\comerce.services\\services\\genreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F770B3B-8200-4E03-98FD-A5D7BB428EE7}|comerce.services\\comerce.Services.csproj|solutionrelative:comerce.services\\services\\genreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA2095FA-510D-4913-9BCD-41BB19754430}|comerce.core\\comerce.Core.csproj|c:\\users\\marco\\source\\repos\\comerce\\comerce.core\\dtos\\response\\genreresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA2095FA-510D-4913-9BCD-41BB19754430}|comerce.core\\comerce.Core.csproj|solutionrelative:comerce.core\\dtos\\response\\genreresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA2095FA-510D-4913-9BCD-41BB19754430}|comerce.core\\comerce.Core.csproj|c:\\users\\marco\\source\\repos\\comerce\\comerce.core\\dtos\\request\\genrerequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA2095FA-510D-4913-9BCD-41BB19754430}|comerce.core\\comerce.Core.csproj|solutionrelative:comerce.core\\dtos\\request\\genrerequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA2095FA-510D-4913-9BCD-41BB19754430}|comerce.core\\comerce.Core.csproj|c:\\users\\marco\\source\\repos\\comerce\\comerce.core\\entities\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA2095FA-510D-4913-9BCD-41BB19754430}|comerce.core\\comerce.Core.csproj|solutionrelative:comerce.core\\entities\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D52D5F9F-84E3-4493-81A1-C8BC482B0E0C}|comerce\\comerce.Api.csproj|c:\\users\\marco\\source\\repos\\comerce\\comerce\\mapper\\mappingprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D52D5F9F-84E3-4493-81A1-C8BC482B0E0C}|comerce\\comerce.Api.csproj|solutionrelative:comerce\\mapper\\mappingprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA2095FA-510D-4913-9BCD-41BB19754430}|comerce.core\\comerce.Core.csproj|c:\\users\\marco\\source\\repos\\comerce\\comerce.core\\dtos\\request\\concertrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA2095FA-510D-4913-9BCD-41BB19754430}|comerce.core\\comerce.Core.csproj|solutionrelative:comerce.core\\dtos\\request\\concertrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA2095FA-510D-4913-9BCD-41BB19754430}|comerce.core\\comerce.Core.csproj|c:\\users\\marco\\source\\repos\\comerce\\comerce.core\\dtos\\response\\concertresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA2095FA-510D-4913-9BCD-41BB19754430}|comerce.core\\comerce.Core.csproj|solutionrelative:comerce.core\\dtos\\response\\concertresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA2095FA-510D-4913-9BCD-41BB19754430}|comerce.core\\comerce.Core.csproj|c:\\users\\marco\\source\\repos\\comerce\\comerce.core\\entities\\concert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA2095FA-510D-4913-9BCD-41BB19754430}|comerce.core\\comerce.Core.csproj|solutionrelative:comerce.core\\entities\\concert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D52D5F9F-84E3-4493-81A1-C8BC482B0E0C}|comerce\\comerce.Api.csproj|c:\\users\\marco\\source\\repos\\comerce\\comerce\\comerce.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D52D5F9F-84E3-4493-81A1-C8BC482B0E0C}|comerce\\comerce.Api.csproj|solutionrelative:comerce\\comerce.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA2095FA-510D-4913-9BCD-41BB19754430}|comerce.core\\comerce.Core.csproj|c:\\users\\marco\\source\\repos\\comerce\\comerce.core\\comerce.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FA2095FA-510D-4913-9BCD-41BB19754430}|comerce.core\\comerce.Core.csproj|solutionrelative:comerce.core\\comerce.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F770B3B-8200-4E03-98FD-A5D7BB428EE7}|comerce.services\\comerce.Services.csproj|c:\\users\\marco\\source\\repos\\comerce\\comerce.services\\comerce.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4F770B3B-8200-4E03-98FD-A5D7BB428EE7}|comerce.services\\comerce.Services.csproj|solutionrelative:comerce.services\\comerce.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F770B3B-8200-4E03-98FD-A5D7BB428EE7}|comerce.services\\comerce.Services.csproj|c:\\users\\marco\\source\\repos\\comerce\\comerce.services\\validators\\genrevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F770B3B-8200-4E03-98FD-A5D7BB428EE7}|comerce.services\\comerce.Services.csproj|solutionrelative:comerce.services\\validators\\genrevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E326BC61-4F1B-467C-98C6-EEC90CFD78CD}|comerce.Infrastructure\\comerce.Infrastructure.csproj|c:\\users\\marco\\source\\repos\\comerce\\comerce.infrastructure\\data\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E326BC61-4F1B-467C-98C6-EEC90CFD78CD}|comerce.Infrastructure\\comerce.Infrastructure.csproj|solutionrelative:comerce.infrastructure\\data\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA2095FA-510D-4913-9BCD-41BB19754430}|comerce.core\\comerce.Core.csproj|c:\\users\\marco\\source\\repos\\comerce\\comerce.core\\interfaces\\services\\igenreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA2095FA-510D-4913-9BCD-41BB19754430}|comerce.core\\comerce.Core.csproj|solutionrelative:comerce.core\\interfaces\\services\\igenreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D52D5F9F-84E3-4493-81A1-C8BC482B0E0C}|comerce\\comerce.Api.csproj|c:\\users\\marco\\source\\repos\\comerce\\comerce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D52D5F9F-84E3-4493-81A1-C8BC482B0E0C}|comerce\\comerce.Api.csproj|solutionrelative:comerce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\marco\\source\\repos\\comerce\\comerce.core\\Interfaces\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "comerce.core\\Interfaces\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\marco\\source\\repos\\comerce\\comerce.core\\Interfaces\\IUnitOfWork.cs",
+              "RelativeToolTip": "comerce.core\\Interfaces\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T00:31:35.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ObjectMap.cs",
+              "DocumentMoniker": "C:\\Users\\marco\\source\\repos\\comerce\\comerce.services\\Services\\ObjectMap.cs",
+              "RelativeDocumentMoniker": "comerce.services\\Services\\ObjectMap.cs",
+              "ToolTip": "C:\\Users\\marco\\source\\repos\\comerce\\comerce.services\\Services\\ObjectMap.cs",
+              "RelativeToolTip": "comerce.services\\Services\\ObjectMap.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T00:52:20.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GenreResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\marco\\source\\repos\\comerce\\comerce.core\\Dtos\\Response\\GenreResponseDto.cs",
+              "RelativeDocumentMoniker": "comerce.core\\Dtos\\Response\\GenreResponseDto.cs",
+              "ToolTip": "C:\\Users\\marco\\source\\repos\\comerce\\comerce.core\\Dtos\\Response\\GenreResponseDto.cs",
+              "RelativeToolTip": "comerce.core\\Dtos\\Response\\GenreResponseDto.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T00:47:08.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GenreRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\marco\\source\\repos\\comerce\\comerce.core\\Dtos\\Request\\GenreRequestDto.cs",
+              "RelativeDocumentMoniker": "comerce.core\\Dtos\\Request\\GenreRequestDto.cs",
+              "ToolTip": "C:\\Users\\marco\\source\\repos\\comerce\\comerce.core\\Dtos\\Request\\GenreRequestDto.cs",
+              "RelativeToolTip": "comerce.core\\Dtos\\Request\\GenreRequestDto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T00:46:36.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Genre.cs",
+              "DocumentMoniker": "C:\\Users\\marco\\source\\repos\\comerce\\comerce.core\\Entities\\Genre.cs",
+              "RelativeDocumentMoniker": "comerce.core\\Entities\\Genre.cs",
+              "ToolTip": "C:\\Users\\marco\\source\\repos\\comerce\\comerce.core\\Entities\\Genre.cs",
+              "RelativeToolTip": "comerce.core\\Entities\\Genre.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T00:46:04.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ConcertResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\marco\\source\\repos\\comerce\\comerce.core\\Dtos\\Response\\ConcertResponseDto.cs",
+              "RelativeDocumentMoniker": "comerce.core\\Dtos\\Response\\ConcertResponseDto.cs",
+              "ToolTip": "C:\\Users\\marco\\source\\repos\\comerce\\comerce.core\\Dtos\\Response\\ConcertResponseDto.cs",
+              "RelativeToolTip": "comerce.core\\Dtos\\Response\\ConcertResponseDto.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAwBYAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T00:44:38.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ConcertRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\marco\\source\\repos\\comerce\\comerce.core\\Dtos\\Request\\ConcertRequestDto.cs",
+              "RelativeDocumentMoniker": "comerce.core\\Dtos\\Request\\ConcertRequestDto.cs",
+              "ToolTip": "C:\\Users\\marco\\source\\repos\\comerce\\comerce.core\\Dtos\\Request\\ConcertRequestDto.cs",
+              "RelativeToolTip": "comerce.core\\Dtos\\Request\\ConcertRequestDto.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAuwBAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T00:44:03.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Concert.cs",
+              "DocumentMoniker": "C:\\Users\\marco\\source\\repos\\comerce\\comerce.core\\Entities\\Concert.cs",
+              "RelativeDocumentMoniker": "comerce.core\\Entities\\Concert.cs",
+              "ToolTip": "C:\\Users\\marco\\source\\repos\\comerce\\comerce.core\\Entities\\Concert.cs",
+              "RelativeToolTip": "comerce.core\\Entities\\Concert.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAgwBYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T00:43:12.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IObjectMap.cs",
+              "DocumentMoniker": "C:\\Users\\marco\\source\\repos\\comerce\\comerce.core\\Interfaces\\IObjectMap.cs",
+              "RelativeDocumentMoniker": "comerce.core\\Interfaces\\IObjectMap.cs",
+              "ToolTip": "C:\\Users\\marco\\source\\repos\\comerce\\comerce.core\\Interfaces\\IObjectMap.cs",
+              "RelativeToolTip": "comerce.core\\Interfaces\\IObjectMap.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T00:40:10.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "comerce.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\marco\\source\\repos\\comerce\\comerce.Infrastructure\\comerce.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "comerce.Infrastructure\\comerce.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\marco\\source\\repos\\comerce\\comerce.Infrastructure\\comerce.Infrastructure.csproj",
+              "RelativeToolTip": "comerce.Infrastructure\\comerce.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-13T00:21:22.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GenresController.cs",
+              "DocumentMoniker": "C:\\Users\\marco\\source\\repos\\comerce\\comerce\\Controllers\\GenresController.cs",
+              "RelativeDocumentMoniker": "comerce\\Controllers\\GenresController.cs",
+              "ToolTip": "C:\\Users\\marco\\source\\repos\\comerce\\comerce\\Controllers\\GenresController.cs",
+              "RelativeToolTip": "comerce\\Controllers\\GenresController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAmwBkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T00:57:35.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MappingProfiles.cs",
+              "DocumentMoniker": "C:\\Users\\marco\\source\\repos\\comerce\\comerce\\Mapper\\MappingProfiles.cs",
+              "RelativeDocumentMoniker": "comerce\\Mapper\\MappingProfiles.cs",
+              "ToolTip": "C:\\Users\\marco\\source\\repos\\comerce\\comerce\\Mapper\\MappingProfiles.cs",
+              "RelativeToolTip": "comerce\\Mapper\\MappingProfiles.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAMwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T00:35:44.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "comerce.Core.csproj",
+              "DocumentMoniker": "C:\\Users\\marco\\source\\repos\\comerce\\comerce.core\\comerce.Core.csproj",
+              "RelativeDocumentMoniker": "comerce.core\\comerce.Core.csproj",
+              "ToolTip": "C:\\Users\\marco\\source\\repos\\comerce\\comerce.core\\comerce.Core.csproj",
+              "RelativeToolTip": "comerce.core\\comerce.Core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-13T00:21:29.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GenreService.cs",
+              "DocumentMoniker": "C:\\Users\\marco\\source\\repos\\comerce\\comerce.services\\Services\\GenreService.cs",
+              "RelativeDocumentMoniker": "comerce.services\\Services\\GenreService.cs",
+              "ToolTip": "C:\\Users\\marco\\source\\repos\\comerce\\comerce.services\\Services\\GenreService.cs",
+              "RelativeToolTip": "comerce.services\\Services\\GenreService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAqwEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T18:03:07.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "comerce.Services.csproj",
+              "DocumentMoniker": "C:\\Users\\marco\\source\\repos\\comerce\\comerce.services\\comerce.Services.csproj",
+              "RelativeDocumentMoniker": "comerce.services\\comerce.Services.csproj",
+              "ToolTip": "C:\\Users\\marco\\source\\repos\\comerce\\comerce.services\\comerce.Services.csproj",
+              "RelativeToolTip": "comerce.services\\comerce.Services.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-13T00:21:15.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\marco\\source\\repos\\comerce\\comerce.Infrastructure\\Data\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "comerce.Infrastructure\\Data\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\marco\\source\\repos\\comerce\\comerce.Infrastructure\\Data\\UnitOfWork.cs",
+              "RelativeToolTip": "comerce.Infrastructure\\Data\\UnitOfWork.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T00:17:30.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\marco\\source\\repos\\comerce\\comerce\\Program.cs",
+              "RelativeDocumentMoniker": "comerce\\Program.cs",
+              "ToolTip": "C:\\Users\\marco\\source\\repos\\comerce\\comerce\\Program.cs",
+              "RelativeToolTip": "comerce\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAwwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T17:31:29.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "comerce.Api.csproj",
+              "DocumentMoniker": "C:\\Users\\marco\\source\\repos\\comerce\\comerce\\comerce.Api.csproj",
+              "RelativeDocumentMoniker": "comerce\\comerce.Api.csproj",
+              "ToolTip": "C:\\Users\\marco\\source\\repos\\comerce\\comerce\\comerce.Api.csproj",
+              "RelativeToolTip": "comerce\\comerce.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-27T17:30:51.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GenreValidator.cs",
+              "DocumentMoniker": "C:\\Users\\marco\\source\\repos\\comerce\\comerce.services\\Validators\\GenreValidator.cs",
+              "RelativeDocumentMoniker": "comerce.services\\Validators\\GenreValidator.cs",
+              "ToolTip": "C:\\Users\\marco\\source\\repos\\comerce\\comerce.services\\Validators\\GenreValidator.cs",
+              "RelativeToolTip": "comerce.services\\Validators\\GenreValidator.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T18:13:26.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IGenreService.cs",
+              "DocumentMoniker": "C:\\Users\\marco\\source\\repos\\comerce\\comerce.core\\Interfaces\\Services\\IGenreService.cs",
+              "RelativeDocumentMoniker": "comerce.core\\Interfaces\\Services\\IGenreService.cs",
+              "ToolTip": "C:\\Users\\marco\\source\\repos\\comerce\\comerce.core\\Interfaces\\Services\\IGenreService.cs",
+              "RelativeToolTip": "comerce.core\\Interfaces\\Services\\IGenreService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwA0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T17:58:52.779Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

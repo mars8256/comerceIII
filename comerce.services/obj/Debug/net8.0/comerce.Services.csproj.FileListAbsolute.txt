@@ -1,0 +1,17 @@
+C:\Users\marco\source\repos\comerce\comerce.services\bin\Debug\net8.0\comerce.Services.deps.json
+C:\Users\marco\source\repos\comerce\comerce.services\bin\Debug\net8.0\comerce.Services.dll
+C:\Users\marco\source\repos\comerce\comerce.services\bin\Debug\net8.0\comerce.Services.pdb
+C:\Users\marco\source\repos\comerce\comerce.services\bin\Debug\net8.0\comerce.Core.dll
+C:\Users\marco\source\repos\comerce\comerce.services\bin\Debug\net8.0\comerce.Infrastructure.dll
+C:\Users\marco\source\repos\comerce\comerce.services\bin\Debug\net8.0\comerce.Core.pdb
+C:\Users\marco\source\repos\comerce\comerce.services\bin\Debug\net8.0\comerce.Infrastructure.pdb
+C:\Users\marco\source\repos\comerce\comerce.services\obj\Debug\net8.0\comerce.Services.csproj.AssemblyReference.cache
+C:\Users\marco\source\repos\comerce\comerce.services\obj\Debug\net8.0\comerce.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\source\repos\comerce\comerce.services\obj\Debug\net8.0\comerce.Services.AssemblyInfoInputs.cache
+C:\Users\marco\source\repos\comerce\comerce.services\obj\Debug\net8.0\comerce.Services.AssemblyInfo.cs
+C:\Users\marco\source\repos\comerce\comerce.services\obj\Debug\net8.0\comerce.Services.csproj.CoreCompileInputs.cache
+C:\Users\marco\source\repos\comerce\comerce.services\obj\Debug\net8.0\comerce..521B5815.Up2Date
+C:\Users\marco\source\repos\comerce\comerce.services\obj\Debug\net8.0\comerce.Services.dll
+C:\Users\marco\source\repos\comerce\comerce.services\obj\Debug\net8.0\refint\comerce.Services.dll
+C:\Users\marco\source\repos\comerce\comerce.services\obj\Debug\net8.0\comerce.Services.pdb
+C:\Users\marco\source\repos\comerce\comerce.services\obj\Debug\net8.0\ref\comerce.Services.dll

@@ -1,0 +1,15 @@
+C:\Users\marco\source\repos\comerce\comerce.Infrastructure\bin\Debug\net8.0\comerce.Infrastructure.deps.json
+C:\Users\marco\source\repos\comerce\comerce.Infrastructure\bin\Debug\net8.0\comerce.Infrastructure.dll
+C:\Users\marco\source\repos\comerce\comerce.Infrastructure\bin\Debug\net8.0\comerce.Infrastructure.pdb
+C:\Users\marco\source\repos\comerce\comerce.Infrastructure\bin\Debug\net8.0\comerce.Core.dll
+C:\Users\marco\source\repos\comerce\comerce.Infrastructure\bin\Debug\net8.0\comerce.Core.pdb
+C:\Users\marco\source\repos\comerce\comerce.Infrastructure\obj\Debug\net8.0\comerce.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\marco\source\repos\comerce\comerce.Infrastructure\obj\Debug\net8.0\comerce.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\source\repos\comerce\comerce.Infrastructure\obj\Debug\net8.0\comerce.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\marco\source\repos\comerce\comerce.Infrastructure\obj\Debug\net8.0\comerce.Infrastructure.AssemblyInfo.cs
+C:\Users\marco\source\repos\comerce\comerce.Infrastructure\obj\Debug\net8.0\comerce.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\marco\source\repos\comerce\comerce.Infrastructure\obj\Debug\net8.0\comerce..CF30E5BA.Up2Date
+C:\Users\marco\source\repos\comerce\comerce.Infrastructure\obj\Debug\net8.0\comerce.Infrastructure.dll
+C:\Users\marco\source\repos\comerce\comerce.Infrastructure\obj\Debug\net8.0\refint\comerce.Infrastructure.dll
+C:\Users\marco\source\repos\comerce\comerce.Infrastructure\obj\Debug\net8.0\comerce.Infrastructure.pdb
+C:\Users\marco\source\repos\comerce\comerce.Infrastructure\obj\Debug\net8.0\ref\comerce.Infrastructure.dll
